@@ -1,0 +1,1 @@
+{"product_name": "2.5 Kg Bean Bag Refill in White Colour", "price": null, "Brand:": "Sattva", "Colour:": "White", "Dimensions(In Inches):": "H 27 x W 19 x D 15", "Weight:": "2.5 KG", "Warranty:": "6 Months' Warranty", "Assembly:": "No Assembly Required", "Material:": "Polystyrene", "Sku:": "FN1769917-S-PM4874"}

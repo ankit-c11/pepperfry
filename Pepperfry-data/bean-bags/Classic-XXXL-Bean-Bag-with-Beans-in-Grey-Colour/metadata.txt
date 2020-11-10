@@ -1,0 +1,1 @@
+{"product_name": "Classic XXXL Bean Bag with Beans in Grey Colour", "price": "1,799", "Brand:": "Sattva", "Dimensions:": "H 49 x W 28 x D 28", "Weight:": "4 KG", "Warranty:": "6 Months' Warranty", "Assembly:": "No Assembly Required", "Primary Material:": "Leatherette", "Room Type:": "Living Room", "Size:": "XXXL", "Sku:": "FN1654145-S-PM4874"}

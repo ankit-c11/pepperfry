@@ -1,0 +1,1 @@
+{"product_name": "Sasha Upholstered Bench in Brown Colour", "price": "5,499", "Brand:": "Ikiriya", "Dimensions:": "H 16 x W 48 x D 16 (All Dimensions in Inches)", "Weight:": "7.8 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room", "Sku:": "FN1854383-S-PM27543"}

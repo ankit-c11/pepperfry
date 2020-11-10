@@ -1,0 +1,1 @@
+{"product_name": "Clara Swing in Brown and Red Colour", "price": "14,999", "Brand:": "Carry Bird", "Dimensions:": "H 44 x W  33 x D 28", "Weight:": "35 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Wicker", "Room Type:": "Outdoor Furniture", "Sku:": "FN1811352-S-PM29401"}

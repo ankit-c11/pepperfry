@@ -1,0 +1,1 @@
+{"product_name": "Chest of Drawers in White Colour", "price": "15,499", "Brand:": "Sovereign Furniture", "Dimensions:": "H 35 x W 26 x D 14  (All dimensions are in inches)", "Weight:": "8 KG", "Warranty:": "6 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Living Room", "Sku:": "FN1838184-S-PM34542"}

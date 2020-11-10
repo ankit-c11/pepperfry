@@ -1,0 +1,1 @@
+{"product_name": "Emma Upholstered Bench in Yellow Colour", "price": "8,299", "Brand:": "Manor & Mews", "Dimensions:": "H 18 x W 48 x D 18 (All Dimensions in Inches)", "Weight:": "12.3 KG", "Warranty:": "6 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room", "Sku:": "FN1848855-S-PM34836"}

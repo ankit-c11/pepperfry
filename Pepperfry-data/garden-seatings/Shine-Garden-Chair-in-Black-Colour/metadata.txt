@@ -1,0 +1,1 @@
+{"product_name": "Shine Garden Chair in Black Colour", "price": "6,299", "Brand:": "Creative Seating System", "Dimensions:": "H 41 x W  17.5 x D 19; Seating Height : 19", "Weight:": "4.5 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "No Assembly Required", "Primary Material:": "Metal", "Room Type:": "Living Room", "Seating Height:": "19", "Sku:": "FN1822086-S-PM31740"}

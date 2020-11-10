@@ -1,0 +1,1 @@
+{"product_name": "Olive Chest of Drawers", "price": "17,607", "Brand:": "Fabuliv", "Dimensions:": "H 32 x W 22 x D 14 (all dimension in inches)", "Colour:": "Multi-Colour", "Warranty:": "36 Months' Warranty", "Assembly:": "No Assembly Required", "Primary Material:": "Mango Wood", "Room Type:": "Bedroom", "Sku:": "FN1838948-S-PM28137"}

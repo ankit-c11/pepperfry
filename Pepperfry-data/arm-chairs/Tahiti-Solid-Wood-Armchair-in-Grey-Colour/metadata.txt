@@ -1,0 +1,1 @@
+{"product_name": "Tahiti Solid Wood Armchair in Grey Colour", "price": "9,500", "Brand:": "@home", "Dimensions:": "H 32.28 x W 21.25 x D 23.22", "Weight:": "16.4 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Rubber Wood", "Room Type:": "Living Room", "Sku:": "FN1762065-S-PM28483"}

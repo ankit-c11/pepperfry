@@ -1,0 +1,1 @@
+{"product_name": "Takara Chest of Drawers in Columbia Walnut Finish", "price": "9,998", "Brand:": "Mintwud", "Dimensions:": "H 43.4 x W 29.5 x D 15.5", "Weight:": "(all dimensions in inches)", "Warranty:": "42 KG", "Assembly:": "12 Months' Warranty", "Primary Material:": "Carpenter Assembly", "Room Type:": "Engineered Wood", "Sku:": "Living Room"}

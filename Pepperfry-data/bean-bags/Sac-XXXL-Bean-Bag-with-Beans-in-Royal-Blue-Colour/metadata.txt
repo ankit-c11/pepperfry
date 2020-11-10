@@ -1,0 +1,1 @@
+{"product_name": "Sac XXXL Bean Bag with Beans in Royal Blue Colour", "price": "3,199", "Brand:": "Style HomeZ", "Colour:": "Royal Blue", "Dimensions(In Inches):": "H 45  x W 32  x D 45", "Warranty:": "12 Months' Warranty", "Assembly:": "No Assembly Required", "Size:": "XXXL", "Material:": "Leatherette", "Sku:": "FN1509267-S-PM7026"}

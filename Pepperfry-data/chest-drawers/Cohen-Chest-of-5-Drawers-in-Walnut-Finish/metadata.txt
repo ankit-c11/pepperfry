@@ -1,0 +1,1 @@
+{"product_name": "Cohen Chest of 5 Drawers in Walnut Finish", "price": "10,900", "Brand:": "@home", "Dimensions:": "H 43.3 x W 21.06 x D 15.35 (all dimensions in inches)", "Weight:": "32 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Bedroom", "Sku:": "FN1832276-S-PM28483"}

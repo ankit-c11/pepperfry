@@ -1,0 +1,1 @@
+{"product_name": "Rubi Coffee Tables in Walnut Finish", "price": "10,099", "Brand:": "Ikiriya", "Dimensions:": "H 16 x W 37 x D 20 (all dimensions in inches)", "Weight:": "12.4 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Sheesham Wood", "Room Type:": "Living Room", "Top Material:": "Solid Wood", "Sku:": "FN1818349-S-PM27543"}

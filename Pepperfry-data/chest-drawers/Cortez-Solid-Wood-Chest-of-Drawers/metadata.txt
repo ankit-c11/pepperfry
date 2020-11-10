@@ -1,0 +1,1 @@
+{"product_name": "Cortez Solid Wood Chest of Drawers", "price": "40,499", "Brand:": "Bohemiana", "Dimensions:": "H 33 x W 48 x D 17", "Weight:": "(all dimensions in inches)", "Warranty:": "60 KG", "Assembly:": "36 Months' Warranty", "Primary Material:": "No Assembly Required", "Room Type:": "Mango Wood", "Collection:": "Bedroom", "Sku:": "INDUSTRIALove"}

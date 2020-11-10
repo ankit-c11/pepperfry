@@ -1,0 +1,1 @@
+{"product_name": "Aldora Solid Wood Bench in Sheesham Stone Finish", "price": "14,499", "Brand:": "Woodsworth", "Dimensions:": "H 18 x W 54 x D 17 (All Dimensions in Inches)", "Weight:": "46 KG", "Warranty:": "36 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Sheesham Wood", "Room Type:": "Dining Room", "Sku:": "FM1783543-S-WH32525"}

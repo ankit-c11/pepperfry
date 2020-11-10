@@ -1,0 +1,1 @@
+{"product_name": "Uber-Chic Armchair", "price": "16,999", "Brand:": "Bohemiana", "Dimensions:": "H 30.3 x W 22 x D 20.5; Seating Height - 17.7 (all dimensions in inches)", "Weight:": "12 KG", "Warranty:": "36 Months' Warranty", "Assembly:": "No Assembly Required", "Primary Material:": "Fabric", "Room Type:": "Bar", "Seating Height:": "18", "Sku:": "FM1768838-S-PM19616"}

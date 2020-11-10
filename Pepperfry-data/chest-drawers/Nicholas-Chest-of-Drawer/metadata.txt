@@ -1,0 +1,1 @@
+{"product_name": "Nicholas Chest of Drawer", "price": "24,050", "Brand:": "Durian", "Dimensions:": "H 47.24 x W 25.98 x D 16.54", "Weight:": "(all dimensions in inches)", "Warranty:": "53 KG", "Assembly:": "5 Years' Warranty", "Primary Material:": "Carpenter Assembly", "Room Type:": "Engineered Wood", "Sku:": "Bedroom"}

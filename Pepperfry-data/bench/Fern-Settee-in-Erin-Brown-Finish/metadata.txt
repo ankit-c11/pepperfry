@@ -1,0 +1,1 @@
+{"product_name": "Fern Settee in Erin Brown Finish", "price": "4,050", "Brand:": "@home", "Dimensions:": "H 18.5 x W 47.2 x D 15.7", "Weight:": "(all dimensions in inches)", "Colour:": "10 KG", "Warranty:": "Brown", "Assembly:": "12 Months' Warranty", "Primary Material:": "Carpenter Assembly", "Room Type:": "Rubber Wood", "Sku:": "Dining Room"}

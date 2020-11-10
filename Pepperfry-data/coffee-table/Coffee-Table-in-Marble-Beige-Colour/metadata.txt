@@ -1,0 +1,1 @@
+{"product_name": "Coffee Table in Marble Beige Colour", "price": "1,229", "Brand:": "Prima", "Dimensions:": "H 18 x W 18 x D 32 (all dimension in inches)", "Weight:": "2.5 KG", "Warranty:": "6 Months' Warranty", "Assembly:": "No Assembly Required", "Primary Material:": "Plastic", "Room Type:": "Living Room", "Sku:": "FN1834555-S-WH34362"}

@@ -1,0 +1,1 @@
+{"product_name": "Classic XXL Bean Bag with Beans in Black Colour", "price": "1,499", "Brand:": "Can", "Colour:": "Black", "Dimensions(In Inches):": "H 42 x W 24 x D 24  ( All Dimensions are in inches)", "Weight:": "3 KG", "Warranty:": "6 Months' Warranty", "Assembly:": "No Assembly Required", "Size:": "XXL", "Material:": "Leatherette", "Sku:": "FN1774728-S-PM16998"}

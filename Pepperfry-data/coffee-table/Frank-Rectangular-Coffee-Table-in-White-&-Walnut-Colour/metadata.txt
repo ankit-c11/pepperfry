@@ -1,0 +1,1 @@
+{"product_name": "Frank Rectangular Coffee Table in White & Walnut Colour", "price": "19,599", "Brand:": "Trendsbee", "Dimensions:": "H 18 x W 48 x D 24 (All Dimensions in Inches)", "Weight:": "25 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "No Assembly Required", "Primary Material:": "Engineered Wood", "Room Type:": "Living Room", "Sku:": "FN1845150-S-PM27771"}

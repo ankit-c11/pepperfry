@@ -1,0 +1,1 @@
+{"product_name": "Outdoor Swing in Brown Colour", "price": null, "Brand:": "Swingzy", "Dimensions:": "H 35.4 x W 21.6 x D 21.6", "Weight:": "6.5 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "No Assembly Required", "Primary Material:": "Fabric", "Room Type:": "Outdoor Furniture", "Sku:": "FN1850361-S-PM34393"}

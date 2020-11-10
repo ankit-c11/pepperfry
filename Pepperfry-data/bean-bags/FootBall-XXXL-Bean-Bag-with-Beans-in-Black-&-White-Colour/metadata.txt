@@ -1,0 +1,1 @@
+{"product_name": "FootBall XXXL Bean Bag with Beans in Black & White Colour", "price": "1,999", "Brand:": "Sattva", "Colour:": "Multicolour", "Dimensions(In Inches):": "H 25 x W 30 x D 30", "Weight:": "3 KG", "Warranty:": "6 Months' Warranty", "Assembly:": "No Assembly Required", "Size:": "XXXL", "Material:": "Leatherette", "Sku:": "FN1485425-S-PM4874"}

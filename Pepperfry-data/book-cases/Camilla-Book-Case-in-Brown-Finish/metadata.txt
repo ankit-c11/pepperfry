@@ -1,0 +1,1 @@
+{"product_name": "Camilla Book Case in Brown Finish", "price": "15,990", "Brand:": "HomeTown", "Dimensions:": "H 72  x W 31 x D 16 (all dimension in inches)", "Weight:": "40 KG", "Warranty:": "12 Months' Warranty", "Assembly:": "Assembly by Brand", "Primary Material:": "Engineered Wood", "Room Type:": "Study Room", "Sku:": "FN1766841-S-PM33857"}

@@ -1,0 +1,1 @@
+{"product_name": "Azealia Solid Wood Chest of Drawers in Distress Finish", "price": "15,499", "Brand:": "Bohemiana", "Dimensions:": "H 30 x W 30 x D 16", "Weight:": "(all dimensions in inches)", "Colour:": "28 KG", "Warranty:": "Distress", "Assembly:": "36 Months' Warranty", "Primary Material:": "No Assembly Required", "Room Type:": "Reclaimed Wood", "Sku:": "Bedroom"}

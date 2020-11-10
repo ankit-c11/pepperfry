@@ -1,0 +1,1 @@
+{"product_name": "Olga 4 Tier Cabinet in Brown Colour", "price": "15,599", "Brand:": "Zorin", "Dimensions:": "H 41 x W 29 x D 17 (All Dimension in Inches)", "Weight:": "47 KG", "Warranty:": "36 Months' Warranty", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Living Room", "Sku:": "FN1769554-S-PM30355"}

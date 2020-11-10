@@ -1,0 +1,1 @@
+{"product_name": "Keller Solid Wood Book Case in Provincial Teak Finish", "price": "40,499", "Brand:": "Woodsworth", "Dimensions:": "H 70 x W 34 x D 16", "Weight:": "(all dimensions in inches)", "Colour:": "66.75 KG", "Warranty:": "Provincial Teak", "Assembly:": "36 Months' Warranty", "Primary Material:": "Carpenter Assembly", "Room Type:": "Sheesham Wood", "Sku:": "Living Room"}

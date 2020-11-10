@@ -1,0 +1,1 @@
+{"product_name": "Symphony 2 Seater Dining Bench in Brown Colour", "price": "7,900", "Brand:": "@home", "Dimensions:": "H 18 x W 44.5 x D 17; Seating Height - 17.7", "Weight:": "(all dimensions in inches)", "Warranty:": "10 KG", "Assembly:": "12 Months' Warranty", "Primary Material:": "Carpenter Assembly", "Room Type:": "Metal", "Seating Height:": "Living Room", "Sku:": "17.7"}

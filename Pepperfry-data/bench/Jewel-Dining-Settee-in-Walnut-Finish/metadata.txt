@@ -1,0 +1,1 @@
+{"product_name": "Jewel Dining Settee in Walnut Finish", "price": "4,950", "Brand:": "@home", "Dimensions:": "H 18.8 x W 47.2 x D 15.7", "Weight:": "(all dimensions in inches)", "Colour:": "10 KG", "Warranty:": "Walnut", "Assembly:": "12 Months' Warranty", "Primary Material:": "Carpenter Assembly", "Room Type:": "Fabric", "Sku:": "Dining Room"}
